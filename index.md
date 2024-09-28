@@ -1,5 +1,5 @@
 ## Lucas Rantanen web-tehtävä
-[readme.md](./README.md)
+[Kissa.md](./Kissa.md)
 #### Italics & Bold
 Writing in Markdown is _not_ that hard!
 
